@@ -8,4 +8,4 @@
 
 - 🔭 I’m currently working on my site web (<a href="https://www.laquios.ga">https://www.laquios.ga</a>)
 - 🌱 I’m currently learning: Css
-- 📫 Reach me to discord: LaquiosDev#1051, <a href="https://instagram.com/laquios/">instagram</a>
+- 📫 Reach me to discord: LaquiosDev#1051, <a href="https://instagram.com/laquios/" target="bank">instagram</a>
