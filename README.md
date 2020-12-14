@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**LaquiosDev/LaquiosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Laquios and i developper in Javascript, html, css, sql.
 
-Here are some ideas to get you started:
+My discord bot server : 
+<iframe src="https://discord.com/widget?id=742418648995594303&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
