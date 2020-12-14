@@ -11,4 +11,4 @@
 - 🌱 I’m currently learning: Css
 - 📫 Reach me to discord: LaquiosDev#1051, <a href="https://instagram.com/laquios/" target="bank">instagram</a>
 
-Tanks for reading my description, don't forget to love my plans if you want to
+Tanks for reading my description, don't forget to love my repositories if you want to
