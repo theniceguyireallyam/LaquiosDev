@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Laquios and i developper in Javascript, html, css, sql.
+I'm Laquios and i'm developper in Javascript, html, css, sql.
 
 My discord bot server : 
 
