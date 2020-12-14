@@ -5,7 +5,7 @@
 
 ### My discord bot server : 
 
-<a href="https://discord.gg/EaekbKMet5" rel="nofollow"><img src="https://th.bing.com/th/id/OIP.TX9P_-UF_rms4BJEhxPSggHaHa?pid=Api&rs=1"></a>
+<a href="https://discord.gg/EaekbKMet5" rel="nofollow"><img src="https://vignette.wikia.nocookie.net/spartaremix/images/e/ec/Discord-new-logo.png/revision/latest?cb=20180224071554" width="50"></a>
 
 - 🔭 I’m currently working on my site web (<a href="https://www.laquios.ga">https://www.laquios.ga</a>)
 - 🌱 I’m currently learning: Css
